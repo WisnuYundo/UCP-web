@@ -17,8 +17,8 @@ CREATE TABLE `playerucp` (
   `varchar` (255) NOT NULL,
   `varchar` (255) NOT NULL,
   `varchar` (255) NOT NULL,
-  `code` mediumint(50) NOT NULL, /*Harus Lu perhatiin*/
-  `status` text NOT NULL, /*Harus Lu perhatiin*/
+  `code` mediumint(50) NOT NULL, /*Harus Lu Tambahin*/
+  `status` text NOT NULL, /*Harus Lu Tambahin*/
   `int` (11) NOT NULL DEFAULT '137', 
   `varchar` (32) NOT NULL DEFAULT '0',
   `varchar` (32) NOT NULL DEFAULT '0',
