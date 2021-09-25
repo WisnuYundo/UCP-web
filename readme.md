@@ -2,9 +2,10 @@
 
 # hal pertama yang harus lu lakuin && PERINGATAN 1    
 
-* ikutin tutorial [TUTORIAL LINK](https://www.codingnepalweb.com/configure-xampp-to-send-mail-from-localhost/) ***Pencet link ini untuk melihat tutorial tanpa tutorial Ini Kalian Akan Gagal bukan untuk di jual ini for all*** 
+* ikutin tutorial [TUTORIAL LINK](https://www.codingnepalweb.com/configure-xampp-to-send-mail-from-localhost/) ***Pencet link ini untuk melihat tutorial tanpa tutorial Ini Kalian Akan Gagal*** 
 
 ## Warning
+* bukan untuk di jual ini for all!!!!
 * sambungin databes dengan databes lu!!!!
 * sesuain script ama databes lu!!!!
 * sambungin databes lu di bagian connection.php
