@@ -1,5 +1,7 @@
 ## UCP-web 
 
+# bukan untuk di jual ini for all
+
 # hal pertama yang harus lu lakuin && PERINGATAN 1    
 
 * ikutin tutorial [TUTORIAL LINK](https://www.codingnepalweb.com/configure-xampp-to-send-mail-from-localhost/) ***Pencet link ini untuk melihat tutorial tanpa tutorial Ini Kalian Akan Gagal*** 
