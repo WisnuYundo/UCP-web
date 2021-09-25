@@ -48,3 +48,4 @@ dan pastikan bahwa line 14 dan 15 harus di tambahakan di dalam databes sekian da
 
 
 # pm discord TheJayඞ#7217 kalo ada yang pusing
+![The Jay](https://github.com/Yazrc/UCP-web/blob/main/credit%20=%20TheJay/thejay.png?raw=true)
