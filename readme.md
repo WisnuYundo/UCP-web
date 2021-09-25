@@ -46,6 +46,15 @@ dan pastikan bahwa line 14 dan 15 harus di tambahakan di dalam databes sekian da
 * Jika ada yang anda ingin katakan atau anda tanyakan bisa pm discord saya 
 * dan bila ingin melihat contoh databesnya ada pada file databes anda perhatikan!
 
+## Desktop Mode Preview 
+![Previw](https://cdn.discordapp.com/attachments/890404151811510342/891329669863989289/unknown.png)
+![Previw](https://cdn.discordapp.com/attachments/890404151811510342/891329722582188072/unknown.png)
+![Previw](https://cdn.discordapp.com/attachments/890404151811510342/891329754358239272/unknown.png)
+
+## Mobile Mode Preview
+![Previw](https://cdn.discordapp.com/attachments/890404151811510342/891330059493855282/unknown.png)
+![Previw](https://cdn.discordapp.com/attachments/890404151811510342/891330082759663676/unknown.png)
+![Previw](https://cdn.discordapp.com/attachments/890404151811510342/891330160811458590/unknown.png)
 
 # pm discord TheJayඞ#7217 kalo ada yang pusing
 ![The Jay](https://github.com/Yazrc/UCP-web/blob/main/credit%20=%20TheJay/thejay.png?raw=true)
